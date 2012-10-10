@@ -1,0 +1,5 @@
+#container {width:900px; margin:-21px auto 10px auto; padding:10px; background:#CCC; }
+	
+fieldset{font-size: 14px; font-family: Verdana, Geneva, sans-serif; color: #FFF; border: solid; border-right-color:#FFF; border-bottom-color:#DDD; }
+
+#todo { background:#FFF; } 
